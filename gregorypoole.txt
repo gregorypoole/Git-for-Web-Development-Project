@@ -103,7 +103,7 @@ A way to organize html to make it make sense.
     git-rm and because its permanent 
 
     34. Why should I use version control? 
-    so you can go back if there's a bug 
+    so you can go back if there's a bug .       
 
     35. How often should I commit to github?
     every 20-30 minutes 
